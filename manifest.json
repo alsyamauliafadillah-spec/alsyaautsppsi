@@ -1,0 +1,22 @@
+{
+  "name": "Antri-Pintar",
+  "short_name": "AntriPintar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#1E3A8A",
+  "orientation": "portrait-primary",
+  "description": "Platform Antrean Digital & Prediksi Beban Layanan Publik Provinsi Lampung",
+  "icons": [
+    {
+      "src": "assets/logo_teknokrat_transparan.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo_pemda_lampung.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
